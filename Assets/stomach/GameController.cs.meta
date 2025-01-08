@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b84fa03ec323b834aa8033b44faf3ac2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - completeOrgan: {fileID: 919132149155446097, guid: b4af2cca36dc66b489149af646248e2b, type: 3}
+  - startButton: {fileID: 188050, guid: b06f0e6c1dfa4356ac918da1bb32c603, type: 3}
+  - winText: {instanceID: 0}
+  - loseText: {instanceID: 0}
+  - winSound: {fileID: 8300000, guid: 07fb9cbe9b419dd4da0de1d27dcc38b0, type: 3}
+  - loseSound: {fileID: 8300000, guid: 722734e9a6795a44fb13dfe2e9d7d070, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
