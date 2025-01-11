@@ -38,6 +38,11 @@ This project is a 3D anatomy puzzle game designed to help users learn about the 
 
 You can watch the gameplay video to see how the game functions and get a feel for the mechanics:
 
+
+https://github.com/user-attachments/assets/53903e50-7fff-4931-b013-53166c049f7c
+
+
+
 ## Model Preparation  
 
 The 3D sliced model of the stomach was created using Blender. The model was sliced into six parts for the puzzle game, allowing users to interactively reassemble them. This process was essential to ensure that the parts fit together correctly in Unity and provided a realistic and educational puzzle experience.
